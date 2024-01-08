@@ -108,11 +108,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "믿음 소망 사랑 중 제일은 사랑이라."
   location         : "서울 하늘 아래"
-  email            : "mailto:cspark.wins@ㅎmail.com"
+  email            : "mailto:cspark.wins@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:cspark.wins@ㅎmail.com"
+      # url: "mailto:cspark.wins@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://cspark0521.github.io"
