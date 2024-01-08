@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "나의 일상"
+title                    : "서울 하늘 아래에서..."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Pack ChangSik"
@@ -107,7 +107,7 @@ author:
   name             : "박 창 식"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "드론과 같이 만들어가는 세상."
-  location         : "서울 하늘 아래"
+  location         : "자양동"
   email            : "mailto:cspark.wins@gmail.com"
   links:
     - label: "Email"
